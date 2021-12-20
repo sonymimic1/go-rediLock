@@ -1,0 +1,17 @@
+.DS_Store
+.vscode/*
+
+.tags*
+*.pid
+*.bak
+*.txt
+*.log
+*.mac
+*.linux
+*.test
+*.so
+*.sum
+
+vendor/*
+log/*
+
